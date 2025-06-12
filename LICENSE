@@ -1,28 +1,25 @@
-BSD 3-Clause License
+Academic-Only License (Zeta) — Custom (CC0-Inspired)
 
-Copyright (c) 2025, Dr.Kitz
+Copyright © 2025 Nihaal Patnaik
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+You are free to:
+- Use, share, and adapt this work for **non-commercial academic and research purposes only**.
+- Use the results, methodology, or code in theses, research papers, academic talks, and non-commercial teaching — **provided you cite the author**.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+You may not:
+- Use this work, or derivatives of it, for **commercial purposes**.
+- Sell, license, or redistribute this work in any paid product or service.
+- Use it in any context where monetary profit or business value is generated — without explicit written permission from the author.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+Patent Disclaimer:
+This license does **not** grant any patent rights. Use of this software does not imply license under any patent held by the author or contributors.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+Attribution:
+Academic users must credit the original author as follows:
+"Nihaal Patnaik, 'Dynamic Multi-Asset Portfolio Optimization using Neural Networks', Math Society, Mahindra University, 2025"
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Additional Notes:
+- This license is based on the spirit of CC0 (freedom of academic usage) but adds **non-commercial restrictions**.
+- For commercial licensing or collaboration, contact: nihaalpatnaik12@gmail.com
+
+Violation of these terms may result in license termination and legal action.
